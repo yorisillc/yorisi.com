@@ -23,3 +23,8 @@ https://www.internetmarketingninjas.com/seo-tools/hide-your-email/
 Easily crop, resize, and edit your images online for FREE at PicResize
 
 https://picresize.com/
+
+
+Website Speed Test Image Analysis Tool
+
+https://webspeedtest.cloudinary.com/
